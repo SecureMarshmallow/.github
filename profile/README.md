@@ -1,6 +1,6 @@
 # 🌫️ SecureMarshmallow
 
-![마쉬멜로 이미지](https://user-images.githubusercontent.com/102890390/235352924-df16c743-3fce-42d7-92e3-38061b07d3e1.png)
+![마쉬멜로 이미지](https://user-images.githubusercontent.com/102890390/235352924-df16c743-3fce-42d7-92e3-38061b07d3e1.png)
 
 ---
 
