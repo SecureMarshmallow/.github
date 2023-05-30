@@ -1,7 +1,5 @@
 # 🌫️ SecureMarshmallow
 
-![마쉬멜로 이미지](https://user-images.githubusercontent.com/102890390/235352924-df16c743-3fce-42d7-92e3-38061b07d3e1.png)
-
 ---
 
 SecureMarshmallow은 안전하고 신뢰적인 코드 개발을 중점으로 둔 프로젝트입니다.<br>
