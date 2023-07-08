@@ -1,4 +1,4 @@
-# 🌫️ SecureMarshmallow
+# ⚙️ SecureMarshmallow - iOS Security Project
 <img src="https://techwagyu.com/wp-content/uploads/2022/05/ios-security-banner.jpeg">
 
 ---
