@@ -1,5 +1,5 @@
 # ⚙️ SecureMarshmallow - iOS Security Project
-<img src="https://techwagyu.com/wp-content/uploads/2022/05/ios-security-banner.jpeg">
+<img src="https://s3.ap-northeast-2.amazonaws.com/patchday-media/18ff34a7-13a7-49a4-8237-2d4df87fba19.png">
 
 ---
 # DSM 유일 Security Project 🔓
