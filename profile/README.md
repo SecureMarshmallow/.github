@@ -1,5 +1,5 @@
 # 🌫️ SecureMarshmallow
-
+<img src="https://techwagyu.com/wp-content/uploads/2022/05/ios-security-banner.jpeg">
 ---
 
 SecureMarshmallow는 안전하고 신뢰적인 코드 개발을 중점으로 둔 프로젝트입니다.<br>
