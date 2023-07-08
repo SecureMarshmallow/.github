@@ -2,6 +2,7 @@
 <img src="https://techwagyu.com/wp-content/uploads/2022/05/ios-security-banner.jpeg">
 
 ---
+# DSM 유일 Security Project
 
 SecureMarshmallow는 안전하고 신뢰적인 코드 개발을 중점으로 둔 프로젝트입니다.<br>
 UI 디자인보다는 코드 보안에 초점을 맞추어 개발하고 있습니다.<br>
