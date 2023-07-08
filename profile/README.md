@@ -2,7 +2,7 @@
 <img src="https://github.com/one3147/BestHacker/blob/main/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202023-07-08%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%202.00.05.png?raw=true">
 
 ---
-# DSM 유일 Security Project 🔓
+# DSM의 유일한 Security Project 🔓
 
 **SecureMarshmallow는 안전하고 신뢰적인 코드 개발을 중점으로 둔 프로젝트입니다.<br>
 UI 디자인보다는 코드 보안에 초점을 맞추어 개발하고 있습니다.<br>
