@@ -14,3 +14,4 @@ SecureMarshmallow의 보안 팀은 iOS 보안, 서버 보안에 대한 시도와
 
 ### 프로젝트 일정 관리
 - [프로젝트 일정](https://github.com/orgs/SecureMarshmallow/projects/2/views/1 "Builder 패턴이란?")
+- [프로젝트 노션](https://husky-grain-b48.notion.site/SecureMarshmallow-63e6620452844399bc3523578ad7affc?pvs=4)
