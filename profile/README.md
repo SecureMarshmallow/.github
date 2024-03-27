@@ -1,5 +1,6 @@
 
-<img src="https://boanprojects.s3.ap-northeast-2.amazonaws.com/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2023-09-19+%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB+11.44.37.png">
+
+<img width="957" alt="marshmallow_main" src="https://github.com/SecureMarshmallow/.github/assets/103029974/feee3c3b-8c46-4fbb-a45f-694ae35b60e3">
 
 ---
 # DSM의 유일한 Security Project 🔓
